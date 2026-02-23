@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "The Secrets of Roasting",
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?q=80&w=800",
+    "excerpt": "Discover the science of the first crack and how temperature shapes flavor.",
+    "date": "Feb 22, 2026",
+    "category": "Craft"
+  },
+  {
+    "id": 2,
+    "title": "Art of the Pour Over",
+    "image": "https://images.unsplash.com/photo-1506372023823-741c83b836fe?q=80&w=800",
+    "excerpt": "Mastering the circular motion for a clean, vibrant coffee profile.",
+    "date": "Feb 20, 2026",
+    "category": "Brewing"
+  },
+  {
+    "id": 3,
+    "title": "Matcha vs Coffee",
+    "image": "https://images.unsplash.com/photo-1515823064-d6e0c04616a7?q=80&w=800",
+    "excerpt": "Exploring the energy benefits of our premium ceremonial grade Matcha.",
+    "date": "Feb 18, 2026",
+    "category": "Health"
+  },
+  {
+    "id": 4,
+    "title": "Zero-Waste Cafe",
+    "image": "https://images.unsplash.com/photo-1442512595331-e89e73853f31?q=80&w=800",
+    "excerpt": "How Java Buzz is leading the way in sustainable, green coffee culture.",
+    "date": "Feb 15, 2026",
+    "category": "Mission"
+  },
+  {
+    "id": 5,
+    "title": "Latte Art Masterclass",
+    "image": "https://images.unsplash.com/photo-1534353473418-4cfa6c56fd38?q=80&w=800",
+    "excerpt": "From basic hearts to advanced rosettas—tips from our head barista.",
+    "date": "Feb 12, 2026",
+    "category": "Art"
+  },
+  {
+    "id": 6,
+    "title": "Ethiopian Beans Guide",
+    "image": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?q=80&w=800",
+    "excerpt": "Floral, fruity, and complex—exploring the birthplace of coffee.",
+    "date": "Feb 10, 2026",
+    "category": "Origin"
+  },
+  {
+    "id": 7,
+    "title": "Cold Brew Science",
+    "image": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?q=80&w=800",
+    "excerpt": "Why 18 hours is the magic number for our signature nitrogen cold brew.",
+    "date": "Feb 08, 2026",
+    "category": "Technique"
+  },
+  {
+    "id": 8,
+    "title": "Coffee & Pastry",
+    "image": "https://images.unsplash.com/photo-1495147466023-ac5c588e2e94?q=80&w=800",
+    "excerpt": "The ultimate pairing guide: find the perfect croissant for your latte.",
+    "date": "Feb 05, 2026",
+    "category": "Food"
+  },
+  {
+    "id": 9,
+    "title": "Home Espresso Setup",
+    "image": "https://images.unsplash.com/photo-1506372023823-741c83b836fe?q=80&w=800",
+    "excerpt": "Transform your kitchen into a cafe with these essential gear tips.",
+    "date": "Feb 02, 2026",
+    "category": "DIY"
+  },
+  {
+    "id": 10,
+    "title": "Morning Rituals",
+    "image": "https://images.unsplash.com/photo-1515823064-d6e0c04616a7?q=80&w=800",
+    "excerpt": "How the perfect coffee environment sets the tone for your whole day.",
+    "date": "Jan 30, 2026",
+    "category": "Lifestyle"
+  }
+]

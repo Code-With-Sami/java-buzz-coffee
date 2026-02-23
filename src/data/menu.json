@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Classic Espresso", "price": "$3.50", "category": "Coffee" },
+  { "id": 2, "name": "Creamy Latte", "price": "$4.50", "category": "Coffee" },
+  { "id": 3, "name": "Matcha Green Tea", "price": "$5.00", "category": "Tea" },
+  { "id": 4, "name": "Caramel Macchiato", "price": "$5.50", "category": "Coffee" },
+  { "id": 5, "name": "Butter Croissant", "price": "$3.00", "category": "Bakery" }
+]

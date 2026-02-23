@@ -1,0 +1,47 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #2C1810;       /* Deep Espresso Brown */
+  --color-accent: #3A5A40;        /* Forest Green (Required) */
+  --color-accent-light: #A3B18A;  /* Sage Green */
+  --color-silk: #F9F7F2;          /* Off-white Cream */
+  --color-mocha: #583121;         /* Medium Roast */
+  
+  --font-serif: var(--font-playfair);
+  --font-sans: var(--font-inter);
+}
+
+/* Add a subtle grain effect to the background to make it look "organic" */
+body::before {
+  content: "";
+  position: fixed;
+  top: 0; left: 0; width: 100%; height: 100%;
+  background-image: url("https://www.transparenttextures.com/patterns/felt.png");
+  opacity: 0.03;
+  pointer-events: none;
+  z-index: 50;
+}
+
+:root {
+  --background: #FDFCF8;
+  --foreground: #1B1411;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+  scroll-behavior: smooth;
+}
+
+/* Custom Scrollbar for professionalism */
+::-webkit-scrollbar { width: 8px; }
+::-webkit-scrollbar-track { background: #f1f1f1; }
+::-webkit-scrollbar-thumb { background: #3D5A42; border-radius: 10px; }
+
+.leaflet-container {
+  width: 100%;
+  height: 500px;
+  border-radius: 2rem;
+  filter: grayscale(0.2) contrast(1.1); /* Makes the map look stylized */
+}
